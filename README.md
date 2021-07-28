@@ -7,5 +7,5 @@
 - HTML
 - CSS
 - JavaScript
-- Normaliza
+- Normalize
 - Fancybox
